@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KnNM4CGN/56DrZ6vbEi3dIw8K2uA2VPXMLr8aHNsbrza65h8ZdYUbMWnwsavXAo4HhyM0vsvjbnuPG3VKSm/0g==",
+  "success": true,
+  "projectFilePath": "D:\\jonat\\Programmation\\cs\\WITT_Jonathan_TP2_ST2API\\tp2\\tp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}
